@@ -4,3 +4,4 @@ https://github.com/RodionGorbunov/test_for_github.git# test_for_github
 Добавлена строка
 Тестовое изменение
 
+Эти изменения верны
