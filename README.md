@@ -1,7 +1,4 @@
-https://github.com/RodionGorbunov/test_for_github.git# test_for_github
-Тестовый репозиторий
+# test_for_github
+Учебный репозиторий тестовый
 
 Добавлена строка
-Тестовое изменение
-
-Эти изменения верны
